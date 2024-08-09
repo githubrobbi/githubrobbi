@@ -28,7 +28,7 @@
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> </a>
   <a href="https://webassembly.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/webassembly/webassembly-icon.svg" alt="WebAssembly" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/> </a>
-  <a href="https://openvpn.net/" target="_blank"> <img src="https://www.cdnlogo.com/logos/o/31/openvpn.svg" alt="OpenVPN" width="40" height="40"/> </a>
+  <a href="https://openvpn.net/" target="_blank"> <img src="https://www.cdnlogo.com/logos/o/31/openvpn.svg" alt="OpenVPN" width="50" height="40"/> </a>
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=githubrobbi&show_icons=true&locale=en&layout=compact" alt="robertnio" /></p>
